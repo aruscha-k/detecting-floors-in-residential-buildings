@@ -4,6 +4,6 @@ This is the repo used in the paper "Detecting floors in residential buildings".
 The code for each proposed method can be found in a seperate Jupyter-Notebook file. 
 It also contains a selection of images of our dataset, that can be found in the folder "test-imgs". 
 
-You can find our trained model for facade object detection at: [https://cloud.scadsai.uni-leipzig.de/index.php/s/7xpk7SmgLHcMsWB](https://cloud.scadsai.uni-leipzig.de/index.php/s/Hwkj4PH45pDMZGs) (because of filesize). PASSWORD: M4KnxWRePj
+You can find our trained model for facade object detection at: *model had to be removed due to copyright on the files they were trained on*
 
 Please check all filepaths before running the code!
